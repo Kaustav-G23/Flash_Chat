@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137258760817",
+    "project_id": "chat-app-27718",
+    "storage_bucket": "chat-app-27718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137258760817:android:b546997a3eb798d321f9d0",
+        "android_client_info": {
+          "package_name": "co.Kaustav.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137258760817-s1gn0tuko0ae3gqonrkqmohf73b69jqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRfsO10n5vUILBtydhk_KoYZj-EV_2_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137258760817-s1gn0tuko0ae3gqonrkqmohf73b69jqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
